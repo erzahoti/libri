@@ -15,7 +15,6 @@
   <div class="container text-center">
     <h1>LIBRI</h1>
     <p>Ta duam, ta blejm&euml;, ta lexojm&euml;</p>
-      <p>ttttest</p>
   </div>
 </div>
 
