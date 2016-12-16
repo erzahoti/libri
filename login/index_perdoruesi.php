@@ -37,7 +37,7 @@
         <li><a href="#">Na kontakto</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="./login/index.php"><span class="glyphicon glyphicon-user"></span> Kyçu</a></li>
+        <li><a href="./login/index.php"><span class="glyphicon glyphicon-user"></span> Emri Mbiemri</a></li>
         <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</a></li>
       </ul>
     </div>
