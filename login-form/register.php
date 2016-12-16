@@ -22,4 +22,5 @@
         header("Location: (../index.php)");
     }
     mysqli_close($con);
+//test
 ?>
