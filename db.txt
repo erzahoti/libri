@@ -1,0 +1,29 @@
+create table perdoruesi(
+    id int primary key AUTO_INCREMENT,
+    email varchar(30) unique,
+    emri varchar(30),
+    mbiemri varchar(30),
+    qyteti varchar(30),
+    fjalekalimi varchar(14),
+    pseudonimi varchar(30) unique
+);
+
+create table libri(
+    id int primary key AUTO_INCREMENT,
+    titulli varchar(100),
+    autori varchar(50),
+    cmimi double,
+    lloji enum("fjalor","shkence","enciklopedi","romance","poezi","aventure","biografi","per femije")
+);
+
+create table libri(
+    id int primary key AUTO_INCREMENT,
+    titulli varchar(100),
+    autori varchar(50),
+    cmimi double,
+    lloji enum("fjalor","shkence","enciklopedi","romance","poezi","aventure","biografi","per femije"),
+    posta double,
+    pershkrimi varchar(500)
+);
+
+
