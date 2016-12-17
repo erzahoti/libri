@@ -1,11 +1,6 @@
 <?php
-
-
-
     include 'connection.php';
     //$con = mysqli_connect('localhost','root','','libri') or die ("Nuk eshte lidhur me databaze");
-
-
 
     $name = $_GET['emri'];
     $surname = $_GET['mbiemri'];
