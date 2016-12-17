@@ -6,8 +6,8 @@
 
     if(!empty($_GET)){
 
-        mysqli_real_escape_string($email);
-        mysqli_real_escape_string($password);
+        mysqli_real_escape_string($con,$email);
+        mysqli_real_escape_string($con,$password);
 
         $sql = "SELECT id FROM perdoruesi WHERE email = '$email' and fjalekalimi = '$password'";
 

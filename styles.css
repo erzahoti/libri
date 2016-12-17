@@ -7,9 +7,8 @@
     /* Remove the jumbotron's default bottom margin */
      .jumbotron {
       margin-bottom: 0;
-      background-image: url('images/white_books.jpg')
+      /*background-image: url('images/white_books.jpg')*/
     }
-
 
     .container {
     text-decoration-color:white;
