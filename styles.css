@@ -1,13 +1,15 @@
     .navbar {
       margin-bottom: 50px;
       border-radius: 0;
+      background-color:black;
 
     }
 
     /* Remove the jumbotron's default bottom margin */
      .jumbotron {
       margin-bottom: 0;
-      /*background-image: url('images/white_books.jpg')*/
+      /*background-image: url('images/banner.png');*/
+
     }
 
     .container {

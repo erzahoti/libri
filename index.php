@@ -13,10 +13,9 @@
 <body>
 
 <div class="jumbotron">
-  <div class="container text-center">
-    <h1>LIBRI</h1>
-    <p>Ta duam, ta blejm&euml;, ta lexojm&euml;!</p>
-  </div>
+
+
+
 </div>
 
 <nav class="navbar navbar-inverse">
@@ -27,7 +26,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Logo</a>
+      <img src="images/logo.png" height="50" width="75">
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
@@ -110,7 +109,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
-                    <h3> Lorem Ipsum </h3>
+                    <h3> Rreth nesh </h3>
                     <ul>
                         <li> <a href="#"> Lorem Ipsum </a> </li>
                         <li> <a href="#"> Lorem Ipsum </a> </li>
@@ -119,7 +118,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
-                    <h3> Lorem Ipsum </h3>
+                    <h3> Cil&euml;sia </h3>
                     <ul>
                         <li> <a href="#"> Lorem Ipsum </a> </li>
                         <li> <a href="#"> Lorem Ipsum </a> </li>
@@ -128,7 +127,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
-                    <h3> Lorem Ipsum </h3>
+                    <h3> Transporti </h3>
                     <ul>
                         <li> <a href="#"> Lorem Ipsum </a> </li>
                         <li> <a href="#"> Lorem Ipsum </a> </li>
@@ -137,7 +136,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-2  col-md-2 col-sm-4 col-xs-6">
-                    <h3> Lorem Ipsum </h3>
+                    <h3> Produktet </h3>
                     <ul>
                         <li> <a href="#"> Lorem Ipsum </a> </li>
                         <li> <a href="#"> Lorem Ipsum </a> </li>
@@ -146,12 +145,12 @@
                     </ul>
                 </div>
                 <div class="col-lg-3  col-md-3 col-sm-6 col-xs-12 ">
-                    <h3> Lorem Ipsum </h3>
+                    <h3> Abonohu p&euml;r m&euml; shum&euml; </h3>
                     <ul>
                         <li>
                             <div class="input-append newsletter-box text-center">
                                 <input type="text" class="full text-center" placeholder="Email ">
-                                <button class="btn  bg-gray" type="button"> Lorem ipsum <i class="fa fa-long-arrow-right"> </i> </button>
+                                <button class="btn  bg-gray" type="button"> D&euml;rgo <i class="fa fa-long-arrow-right"> </i> </button>
                             </div>
                         </li>
                     </ul>
@@ -172,7 +171,7 @@
 
     <div class="footer-bottom">
         <div class="container">
-            <p class="pull-left"> Copyright © Footer E-commerce Plugin 2014. All right reserved. </p>
+            <p class="pull-left"> LIBRI © T&euml; gjitha t&euml; drejtat e rezervuara </p>
             <div class="pull-right">
                 <ul class="nav nav-pills payments">
                 	<li><i class="fa fa-cc-visa"></i></li>
