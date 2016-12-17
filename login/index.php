@@ -75,29 +75,26 @@
           </form>
 
         </div>
-
-        <div id="login">
-          <h1>Welcome Back!</h1>
-
-          <form action="" method="post">
-
+        <form action="login.php" method="GET">
+         <div id="login">
+          <h1>Mir&euml; se erdh&euml;t</h1>
             <div class="field-wrap">
             <label>
-              Email Address<span class="req">*</span>
+              E-mail<span class="req">*</span>
             </label>
-            <input type="email"required autocomplete="off"/>
+            <input type="email" name="email" required autocomplete="off"/>
           </div>
 
           <div class="field-wrap">
             <label>
-              Password<span class="req">*</span>
+              Fjal&euml;kalimi<span class="req">*</span>
             </label>
-            <input type="password"required autocomplete="off"/>
+            <input type="password" name="fjalekalimi" required autocomplete="off"/>
           </div>
 
-          <p class="forgot"><a href="#">Forgot Password?</a></p>
+          <p class="forgot"><a href="#">Keni harruar fjal&euml;kalimin?</a></p>
 
-          <button class="button button-block"/>Log In</button>
+          <button class="button button-block"/>Kyçu</button>
 
           </form>
 

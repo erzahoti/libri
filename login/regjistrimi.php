@@ -22,7 +22,5 @@
         header("Location: index_perdoruesi.php");
     }
     mysqli_close($con);
-//test
-?>
 
 ?>
